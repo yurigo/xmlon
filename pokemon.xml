@@ -953,7 +953,7 @@
 
     <Pokemon ID="700">
         <Nombre>Sylveon</Nombre>
-        <Tipo<Hada</Tipo>
+        <Tipo>Hada</Tipo>
         <Habilidad>Pixilate</Habilidad>
         
         <HP>95</HP>
