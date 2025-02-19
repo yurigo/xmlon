@@ -440,7 +440,7 @@
         <Nombre>Arbok</Nombre>
         <Tipo>Veneno</Tipo>
         <Habilidad>Intimidación</Habilidad>
-        <Evoluciones/>
+        
         <HP>60</HP>
         <Ataques>
             <Ataque>
@@ -528,7 +528,7 @@
         <Nombre>Raichu</Nombre>
         <Tipo>Eléctrico</Tipo>
         <Habilidad>Impulso</Habilidad>
-        <Evoluciones/>
+        
         <HP>60</HP>
         <Ataques>
             <Ataque>
@@ -548,7 +548,7 @@
         <Nombre>Raichu Alola</Nombre>
         <Tipo>Eléctrico</Tipo>
         <Habilidad>Electromotor</Habilidad>
-        <Evoluciones/>
+        
         <HP>60</HP>
         <Ataques>
             <Ataque>
@@ -595,7 +595,7 @@
         <Nombre>Sandslash</Nombre>
         <Tipo>Terrestre</Tipo>
         <Habilidad>Absorber Agua</Habilidad>
-        <Evoluciones/>
+        
         <HP>75</HP>
         <Ataques>
             <Ataque>
@@ -659,7 +659,7 @@
         <Nombre>Nidoqueen</Nombre>
         <Tipo>Veneno/Tierra</Tipo>
         <Habilidad>Veneno Punto</Habilidad>
-        <Evoluciones/>
+        
         <HP>90</HP>
         <Ataques>
             <Ataque>
@@ -718,7 +718,7 @@
         <Nombre>Alakazam</Nombre>
         <Tipo>Psíquico</Tipo>
         <Habilidad>Sincronía</Habilidad>
-        <Evoluciones/>
+        
         <HP>55</HP>
         <Ataques>
             <Ataque>
@@ -760,7 +760,7 @@
         <Nombre>Golduck</Nombre>
         <Tipo>Agua</Tipo>
         <Habilidad>Confusión</Habilidad>
-        <Evoluciones/>
+        
         <HP>80</HP>
         <Ataques>
             <Ataque>
@@ -815,7 +815,7 @@
         <Nombre>Vaporeon</Nombre>
         <Tipo>Agua</Tipo>
         <Habilidad>Absorber Agua</Habilidad>
-        <Evoluciones/>
+        
         <HP>130</HP>
         <Ataques>
             <Ataque>
@@ -835,7 +835,7 @@
         <Nombre>Jolteon</Nombre>
         <Tipo>Eléctrico</Tipo>
         <Habilidad>Volt Absorb</Habilidad>
-        <Evoluciones/>
+        
         <HP>65</HP>
         <Ataques>
             <Ataque>
@@ -855,7 +855,7 @@
         <Nombre>Flareon</Nombre>
         <Tipo>Fuego</Tipo>
         <Habilidad>Flash Fire</Habilidad>
-        <Evoluciones/>
+        
         <HP>65</HP>
         <Ataques>
             <Ataque>
@@ -875,7 +875,7 @@
         <Nombre>Espeon</Nombre>
         <Tipo>Psíquico</Tipo>
         <Habilidad>Sincronía</Habilidad>
-        <Evoluciones/>
+        
         <HP>65</HP>
         <Ataques>
             <Ataque>
@@ -895,7 +895,7 @@
         <Nombre>Umbreon</Nombre>
         <Tipo>Siniestro</Tipo>
         <Habilidad>Sincronía</Habilidad>
-        <Evoluciones/>
+        
         <HP>95</HP>
         <Ataques>
             <Ataque>
@@ -915,7 +915,7 @@
         <Nombre>Leafeon</Nombre>
         <Tipo>Planta</Tipo>
         <Habilidad>Leaf Guard</Habilidad>
-        <Evoluciones/>
+        
         <HP>65</HP>
         <Ataques>
             <Ataque>
@@ -935,7 +935,7 @@
         <Nombre>Glaceon</Nombre>
         <Tipo>Hielo</Tipo>
         <Habilidad>Ice Body</Habilidad>
-        <Evoluciones/>
+        
         <HP>65</HP>
         <Ataques>
             <Ataque>
@@ -955,7 +955,7 @@
         <Nombre>Sylveon</Nombre>
         <Tipo<Hada</Tipo>
         <Habilidad>Pixilate</Habilidad>
-        <Evoluciones/>
+        
         <HP>95</HP>
         <Ataques>
             <Ataque>
