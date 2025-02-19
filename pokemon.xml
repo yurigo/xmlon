@@ -1,0 +1,973 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PokemonData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="pokemon.xsd">
+    <Pokemon ID="1">
+        <Nombre>Bulbasaur</Nombre>
+        <Tipo>Planta</Tipo>
+        <Tipo>Veneno</Tipo>
+        <Habilidad>Espesura</Habilidad>
+        <Evoluciones>
+            <Evolucion ID="2">Ivysaur</Evolucion>
+        </Evoluciones>
+        <HP>45</HP>
+        <Ataques>
+            <Ataque>
+                <Nombre>Latigazo</Nombre>
+                <Tipo>Planta</Tipo>
+                <Daño>45</Daño>
+            </Ataque>
+            <Ataque>
+                <Nombre>Drenadoras</Nombre>
+                <Tipo>Planta</Tipo>
+                <Daño>0</Daño>
+            </Ataque>
+        </Ataques>
+    </Pokemon>
+    <Pokemon ID="2">
+        <Nombre>Ivysaur</Nombre>
+        <Tipo>Planta</Tipo>
+        <Tipo>Veneno</Tipo>
+        <Habilidad>Espesura</Habilidad>
+        <Evoluciones>
+            <Evolucion ID="3">Venusaur</Evolucion>
+        </Evoluciones>
+        <HP>60</HP>
+        <Ataques>
+            <Ataque>
+                <Nombre>Hoja Afilada</Nombre>
+                <Tipo>Planta</Tipo>
+                <Daño>55</Daño>
+            </Ataque>
+            <Ataque>
+                <Nombre>Rayo Solar</Nombre>
+                <Tipo>Planta</Tipo>
+                <Daño>120</Daño>
+            </Ataque>
+        </Ataques>
+    </Pokemon>
+    <Pokemon ID="3">
+        <Nombre>Venusaur</Nombre>
+        <Tipo>Planta</Tipo>
+        <Tipo>Veneno</Tipo>
+        <Habilidad>Espesura</Habilidad>
+        <HP>80</HP>
+        <Ataques>
+            <Ataque>
+                <Nombre>Rayo Solar</Nombre>
+                <Tipo>Planta</Tipo>
+                <Daño>120</Daño>
+            </Ataque>
+            <Ataque>
+                <Nombre>Terremoto</Nombre>
+                <Tipo>Tierra</Tipo>
+                <Daño>100</Daño>
+            </Ataque>
+        </Ataques>
+    </Pokemon>
+    <Pokemon ID="4">
+        <Nombre>Charmander</Nombre>
+        <Tipo>Fuego</Tipo>
+        <Habilidad>Mar Llamas</Habilidad>
+        <Evoluciones>
+            <Evolucion ID="5">Charmeleon</Evolucion>
+        </Evoluciones>
+        <HP>39</HP>
+        <Ataques>
+            <Ataque>
+                <Nombre>Ascuas</Nombre>
+                <Tipo>Fuego</Tipo>
+                <Daño>40</Daño>
+            </Ataque>
+            <Ataque>
+                <Nombre>Garra Dragón</Nombre>
+                <Tipo>Dragón</Tipo>
+                <Daño>80</Daño>
+            </Ataque>
+        </Ataques>
+    </Pokemon>
+    <Pokemon ID="5">
+        <Nombre>Charmeleon</Nombre>
+        <Tipo>Fuego</Tipo>
+        <Habilidad>Mar Llamas</Habilidad>
+        <Evoluciones>
+            <Evolucion ID="6">Charizard</Evolucion>
+        </Evoluciones>
+        <HP>58</HP>
+        <Ataques>
+            <Ataque>
+                <Nombre>Lanzallamas</Nombre>
+                <Tipo>Fuego</Tipo>
+                <Daño>90</Daño>
+            </Ataque>
+            <Ataque>
+                <Nombre>Colmillo Ígneo</Nombre>
+                <Tipo>Fuego</Tipo>
+                <Daño>65</Daño>
+            </Ataque>
+        </Ataques>
+    </Pokemon>
+
+    <Pokemon ID="6">
+        <Nombre>Charizard</Nombre>
+        <Tipo>Fuego</Tipo>
+        <Tipo>Volador</Tipo>
+        <Habilidad>Mar Llamas</Habilidad>
+        <HP>78</HP>
+        <Ataques>
+            <Ataque>
+                <Nombre>Lanzallamas</Nombre>
+                <Tipo>Fuego</Tipo>
+                <Daño>90</Daño>
+            </Ataque>
+            <Ataque>
+                <Nombre>Ataque Ala</Nombre>
+                <Tipo>Volador</Tipo>
+                <Daño>60</Daño>
+            </Ataque>
+        </Ataques>
+    </Pokemon>
+
+    <Pokemon ID="7">
+        <Nombre>Squirtle</Nombre>
+        <Tipo>Agua</Tipo>
+        <Habilidad>Torrente</Habilidad>
+        <Evoluciones>
+            <Evolucion ID="8">Wartortle</Evolucion>
+        </Evoluciones>
+        <HP>44</HP>
+        <Ataques>
+            <Ataque>
+                <Nombre>Placaje</Nombre>
+                <Tipo>Normal</Tipo>
+                <Daño>40</Daño>
+            </Ataque>
+            <Ataque>
+                <Nombre>Pistola Agua</Nombre>
+                <Tipo>Agua</Tipo>
+                <Daño>40</Daño>
+            </Ataque>
+        </Ataques>
+    </Pokemon>
+    <Pokemon ID="8">
+        <Nombre>Wartortle</Nombre>
+        <Tipo>Agua</Tipo>
+        <Habilidad>Torrente</Habilidad>
+        <Evoluciones>
+            <Evolucion ID="9">Blastoise</Evolucion>
+        </Evoluciones>
+        <HP>59</HP>
+        <Ataques>
+            <Ataque>
+                <Nombre>Placaje</Nombre>
+                <Tipo>Normal</Tipo>
+                <Daño>40</Daño>
+            </Ataque>
+            <Ataque>
+                <Nombre>Hidrobomba</Nombre>
+                <Tipo>Agua</Tipo>
+                <Daño>110</Daño>
+            </Ataque>
+        </Ataques>
+    </Pokemon>
+    <Pokemon ID="9">
+        <Nombre>Blastoise</Nombre>
+        <Tipo>Agua</Tipo>
+        <Habilidad>Torrente</Habilidad>
+        <HP>79</HP>
+        <Ataques>
+            <Ataque>
+                <Nombre>Placaje</Nombre>
+                <Tipo>Normal</Tipo>
+                <Daño>40</Daño>
+            </Ataque>
+            <Ataque>
+                <Nombre>Hidrobomba</Nombre>
+                <Tipo>Agua</Tipo>
+                <Daño>110</Daño>
+            </Ataque>
+        </Ataques>
+    </Pokemon>
+    <Pokemon ID="10">
+        <Nombre>Caterpie</Nombre>
+        <Tipo>Bicho</Tipo>
+        <Habilidad>Polvo Escudo</Habilidad>
+        <Evoluciones>
+            <Evolucion ID="11">Metapod</Evolucion>
+        </Evoluciones>
+        <HP>45</HP>
+        <Ataques>
+            <Ataque>
+                <Nombre>Placaje</Nombre>
+                <Tipo>Normal</Tipo>
+                <Daño>40</Daño>
+            </Ataque>
+            <Ataque>
+                <Nombre>Drenadoras</Nombre>
+                <Tipo>Bicho</Tipo>
+                <Daño>20</Daño>
+            </Ataque>
+        </Ataques>
+    </Pokemon>
+    <Pokemon ID="11">
+        <Nombre>Metapod</Nombre>
+        <Tipo>Bicho</Tipo>
+        <Habilidad>Mudar</Habilidad>
+        <Evoluciones>
+            <Evolucion ID="12">Butterfree</Evolucion>
+        </Evoluciones>
+        <HP>50</HP>
+        <Ataques>
+            <Ataque>
+                <Nombre>Placaje</Nombre>
+                <Tipo>Normal</Tipo>
+                <Daño>40</Daño>
+            </Ataque>
+            <Ataque>
+                <Nombre>Drenadoras</Nombre>
+                <Tipo>Bicho</Tipo>
+                <Daño>20</Daño>
+            </Ataque>
+        </Ataques>
+    </Pokemon>
+    <Pokemon ID="12">
+        <Nombre>Butterfree</Nombre>
+        <Tipo>Bicho</Tipo>
+        <Tipo>Volador</Tipo>
+        <Habilidad>Ojo Compuesto</Habilidad>
+        <HP>60</HP>
+        <Ataques>
+            <Ataque>
+                <Nombre>Placaje</Nombre>
+                <Tipo>Normal</Tipo>
+                <Daño>40</Daño>
+            </Ataque>
+            <Ataque>
+                <Nombre>Confusión</Nombre>
+                <Tipo>Psíquico</Tipo>
+                <Daño>50</Daño>
+            </Ataque>
+        </Ataques>
+    </Pokemon>
+
+    <Pokemon ID="13">
+        <Nombre>Weedle</Nombre>
+        <Tipo>Bicho</Tipo>
+        <Tipo>Veneno</Tipo>
+        <Habilidad>Polvo Escudo</Habilidad>
+        <Evoluciones>
+            <Evolucion ID="14">Kakuna</Evolucion>
+        </Evoluciones>
+        <HP>40</HP>
+        <Ataques>
+            <Ataque>
+                <Nombre>Picotazo Venenoso</Nombre>
+                <Tipo>Veneno</Tipo>
+                <Daño>15</Daño>
+            </Ataque>
+            <Ataque>
+                <Nombre>Placaje</Nombre>
+                <Tipo>Normal</Tipo>
+                <Daño>40</Daño>
+            </Ataque>
+        </Ataques>
+    </Pokemon>
+    <Pokemon ID="14">
+        <Nombre>Kakuna</Nombre>
+        <Tipo>Bicho</Tipo>
+        <Tipo>Veneno</Tipo>
+        <Habilidad>Mudar</Habilidad>
+        <Evoluciones>
+            <Evolucion ID="15">Beedrill</Evolucion>
+        </Evoluciones>
+        <HP>45</HP>
+        <Ataques>
+            <Ataque>
+                <Nombre>Picotazo Venenoso</Nombre>
+                <Tipo>Veneno</Tipo>
+                <Daño>15</Daño>
+            </Ataque>
+            <Ataque>
+                <Nombre>Endurecer</Nombre>
+                <Tipo>Normal</Tipo>
+                <Daño>0</Daño>
+            </Ataque>
+        </Ataques>
+    </Pokemon>
+    <Pokemon ID="15">
+        <Nombre>Beedrill</Nombre>
+        <Tipo>Bicho</Tipo>
+        <Tipo>Veneno</Tipo>
+        <Habilidad>Enjambre</Habilidad>
+        <HP>65</HP>
+        <Ataques>
+            <Ataque>
+                <Nombre>Picotazo Venenoso</Nombre>
+                <Tipo>Veneno</Tipo>
+                <Daño>35</Daño>
+            </Ataque>
+            <Ataque>
+                <Nombre>Furia</Nombre>
+                <Tipo>Normal</Tipo>
+                <Daño>20</Daño>
+            </Ataque>
+        </Ataques>
+    </Pokemon>
+    <Pokemon ID="16">
+        <Nombre>Pidgey</Nombre>
+        <Tipo>Normal</Tipo>
+        <Tipo>Volador</Tipo>
+        <Habilidad>Vista Lince</Habilidad>
+        <Evoluciones>
+            <Evolucion ID="17">Pidgeotto</Evolucion>
+        </Evoluciones>
+        <HP>40</HP>
+        <Ataques>
+            <Ataque>
+                <Nombre>Placaje</Nombre>
+                <Tipo>Normal</Tipo>
+                <Daño>40</Daño>
+            </Ataque>
+            <Ataque>
+                <Nombre>Remolino</Nombre>
+                <Tipo>Volador</Tipo>
+                <Daño>35</Daño>
+            </Ataque>
+        </Ataques>
+    </Pokemon>
+    <Pokemon ID="17">
+        <Nombre>Pidgeotto</Nombre>
+        <Tipo>Normal</Tipo>
+        <Tipo>Volador</Tipo>
+        <Habilidad>Vista Lince</Habilidad>
+        <Evoluciones>
+            <Evolucion ID="18">Pidgeot</Evolucion>
+        </Evoluciones>
+        <HP>63</HP>
+        <Ataques>
+            <Ataque>
+                <Nombre>Placaje</Nombre>
+                <Tipo>Normal</Tipo>
+                <Daño>40</Daño>
+            </Ataque>
+            <Ataque>
+                <Nombre>Tornado</Nombre>
+                <Tipo>Volador</Tipo>
+                <Daño>40</Daño>
+            </Ataque>
+        </Ataques>
+    </Pokemon>
+    <Pokemon ID="18">
+        <Nombre>Pidgeot</Nombre>
+        <Tipo>Normal</Tipo>
+        <Tipo>Volador</Tipo>
+        <Habilidad>Vista Lince</Habilidad>
+        <HP>83</HP>
+        <Ataques>
+            <Ataque>
+                <Nombre>Placaje</Nombre>
+                <Tipo>Normal</Tipo>
+                <Daño>40</Daño>
+            </Ataque>
+            <Ataque>
+                <Nombre>Viento Cortante</Nombre>
+                <Tipo>Volador</Tipo>
+                <Daño>75</Daño>
+            </Ataque>
+        </Ataques>
+    </Pokemon>
+    <Pokemon ID="19">
+        <Nombre>Rattata</Nombre>
+        <Tipo>Normal</Tipo>
+        <Habilidad>Fuga</Habilidad>
+        <Evoluciones>
+            <Evolucion ID="20">Raticate</Evolucion>
+        </Evoluciones>
+        <HP>30</HP>
+        <Ataques>
+            <Ataque>
+                <Nombre>Placaje</Nombre>
+                <Tipo>Normal</Tipo>
+                <Daño>40</Daño>
+            </Ataque>
+            <Ataque>
+                <Nombre>Hiper Colmillo</Nombre>
+                <Tipo>Normal</Tipo>
+                <Daño>80</Daño>
+            </Ataque>
+        </Ataques>
+    </Pokemon>
+    <Pokemon ID="20">
+        <Nombre>Raticate</Nombre>
+        <Tipo>Normal</Tipo>
+        <Habilidad>Fuga</Habilidad>
+        <HP>55</HP>
+        <Ataques>
+            <Ataque>
+                <Nombre>Placaje</Nombre>
+                <Tipo>Normal</Tipo>
+                <Daño>40</Daño>
+            </Ataque>
+            <Ataque>
+                <Nombre>Hiper Colmillo</Nombre>
+                <Tipo>Normal</Tipo>
+                <Daño>80</Daño>
+            </Ataque>
+        </Ataques>
+    </Pokemon>
+
+    <Pokemon ID="21">
+        <Nombre>Ekans</Nombre>
+        <Tipo>Veneno</Tipo>
+        <Habilidad>Intimidación</Habilidad>
+        <Evoluciones>
+            <Evolucion ID="22">Arbok</Evolucion>
+        </Evoluciones>
+        <HP>35</HP>
+        <Ataques>
+            <Ataque>
+                <Nombre>Envenenar</Nombre>
+                <Tipo>Veneno</Tipo>
+                <Daño>15</Daño>
+            </Ataque>
+            <Ataque>
+                <Nombre>Mordisco</Nombre>
+                <Tipo>Siniestro</Tipo>
+                <Daño>20</Daño>
+            </Ataque>
+        </Ataques>
+    </Pokemon>
+    
+    <Pokemon ID="22">
+        <Nombre>Arbok</Nombre>
+        <Tipo>Veneno</Tipo>
+        <Habilidad>Intimidación</Habilidad>
+        <Evoluciones/>
+        <HP>60</HP>
+        <Ataques>
+            <Ataque>
+                <Nombre>Glare</Nombre>
+                <Tipo>Normal</Tipo>
+                <Daño>0</Daño>
+            </Ataque>
+            <Ataque>
+                <Nombre>Veneno</Nombre>
+                <Tipo>Veneno</Tipo>
+                <Daño>30</Daño>
+            </Ataque>
+        </Ataques>
+    </Pokemon>
+
+    <Pokemon ID="23">
+        <Nombre>Machop</Nombre>
+        <Tipo>Lucha</Tipo>
+        <Habilidad>Agallas</Habilidad>
+        <Evoluciones>
+            <Evolucion ID="24">Machoke</Evolucion>
+        </Evoluciones>
+        <HP>70</HP>
+        <Ataques>
+            <Ataque>
+                <Nombre>Puño Dinámico</Nombre>
+                <Tipo>Lucha</Tipo>
+                <Daño>40</Daño>
+            </Ataque>
+            <Ataque>
+                <Nombre>Patada Baja</Nombre>
+                <Tipo>Lucha</Tipo>
+                <Daño>30</Daño>
+            </Ataque>
+        </Ataques>
+    </Pokemon>
+    
+    <Pokemon ID="24">
+        <Nombre>Machoke</Nombre>
+        <Tipo>Lucha</Tipo>
+        <Habilidad>Agallas</Habilidad>
+        <Evoluciones>
+            <Evolucion ID="25">Machamp</Evolucion>
+        </Evoluciones>
+        <HP>80</HP>
+        <Ataques>
+            <Ataque>
+                <Nombre>Puño Dinámico</Nombre>
+                <Tipo>Lucha</Tipo>
+                <Daño>50</Daño>
+            </Ataque>
+            <Ataque>
+                <Nombre>Puño Sombra</Nombre>
+                <Tipo>Fantasma</Tipo>
+                <Daño>40</Daño>
+            </Ataque>
+        </Ataques>
+    </Pokemon>
+
+    <Pokemon ID="025">
+        <Nombre>Pikachu</Nombre>
+        <Tipo>Eléctrico</Tipo>
+        <Habilidad>Electricidad Estática</Habilidad>
+        <Evoluciones>
+            <Evolucion ID="026">Raichu</Evolucion>
+            <Evolucion ID="026A">Raichu Alola</Evolucion>
+        </Evoluciones>
+        <HP>35</HP>
+        <Ataques>
+            <Ataque>
+                <Nombre>Impactrueno</Nombre>
+                <Tipo>Eléctrico</Tipo>
+                <Daño>40</Daño>
+            </Ataque>
+            <Ataque>
+                <Nombre>Rayo</Nombre>
+                <Tipo>Eléctrico</Tipo>
+                <Daño>90</Daño>
+            </Ataque>
+        </Ataques>
+    </Pokemon>
+
+
+    <Pokemon ID="26">
+        <Nombre>Raichu</Nombre>
+        <Tipo>Eléctrico</Tipo>
+        <Habilidad>Impulso</Habilidad>
+        <Evoluciones/>
+        <HP>60</HP>
+        <Ataques>
+            <Ataque>
+                <Nombre>Rayo</Nombre>
+                <Tipo>Eléctrico</Tipo>
+                <Daño>60</Daño>
+            </Ataque>
+            <Ataque>
+                <Nombre>Puño Trueno</Nombre>
+                <Tipo>Eléctrico</Tipo>
+                <Daño>40</Daño>
+            </Ataque>
+        </Ataques>
+    </Pokemon>
+
+    <Pokemon ID="26A">
+        <Nombre>Raichu Alola</Nombre>
+        <Tipo>Eléctrico</Tipo>
+        <Habilidad>Electromotor</Habilidad>
+        <Evoluciones/>
+        <HP>60</HP>
+        <Ataques>
+            <Ataque>
+                <Nombre>Rayo</Nombre>
+                <Tipo>Eléctrico</Tipo>
+                <Daño>60</Daño>
+            </Ataque>
+            <Ataque>
+                <Nombre>Puño Trueno</Nombre>
+                <Tipo>Eléctrico</Tipo>
+                <Daño>40</Daño>
+            </Ataque>
+            <Ataque>
+                <Nombre>Puño Fuego</Nombre>
+                <Tipo>Fuego</Tipo>
+                <Daño>50</Daño>
+            </Ataque>
+        </Ataques>
+    </Pokemon>
+
+    <Pokemon ID="27">
+        <Nombre>Sandshrew</Nombre>
+        <Tipo>Terrestre</Tipo>
+        <Habilidad>Absorber Agua</Habilidad>
+        <Evoluciones>
+            <Evolucion ID="28">Sandslash</Evolucion>
+        </Evoluciones>
+        <HP>50</HP>
+        <Ataques>
+            <Ataque>
+                <Nombre>Rasguño</Nombre>
+                <Tipo>Normal</Tipo>
+                <Daño>40</Daño>
+            </Ataque>
+            <Ataque>
+                <Nombre>Excavar</Nombre>
+                <Tipo>Terrestre</Tipo>
+                <Daño>80</Daño>
+            </Ataque>
+        </Ataques>
+    </Pokemon>
+
+    <Pokemon ID="28">
+        <Nombre>Sandslash</Nombre>
+        <Tipo>Terrestre</Tipo>
+        <Habilidad>Absorber Agua</Habilidad>
+        <Evoluciones/>
+        <HP>75</HP>
+        <Ataques>
+            <Ataque>
+                <Nombre>Excavar</Nombre>
+                <Tipo>Terrestre</Tipo>
+                <Daño>80</Daño>
+            </Ataque>
+            <Ataque>
+                <Nombre>Rasguño</Nombre>
+                <Tipo>Normal</Tipo>
+                <Daño>40</Daño>
+            </Ataque>
+        </Ataques>
+    </Pokemon>
+
+    <Pokemon ID="29">
+        <Nombre>Nidoran♀</Nombre>
+        <Tipo>Veneno</Tipo>
+        <Habilidad>Veneno Punto</Habilidad>
+        <Evoluciones>
+            <Evolucion ID="30">Nidorina</Evolucion>
+        </Evoluciones>
+        <HP>55</HP>
+        <Ataques>
+            <Ataque>
+                <Nombre>Punición</Nombre>
+                <Tipo>Veneno</Tipo>
+                <Daño>40</Daño>
+            </Ataque>
+            <Ataque>
+                <Nombre>Gruñido</Nombre>
+                <Tipo>Normal</Tipo>
+                <Daño>0</Daño>
+            </Ataque>
+        </Ataques>
+    </Pokemon>
+
+    <Pokemon ID="30">
+        <Nombre>Nidorina</Nombre>
+        <Tipo>Veneno</Tipo>
+        <Habilidad>Veneno Punto</Habilidad>
+        <Evoluciones>
+            <Evolucion ID="31">Nidoqueen</Evolucion>
+        </Evoluciones>
+        <HP>70</HP>
+        <Ataques>
+            <Ataque>
+                <Nombre>Colmillo Duro</Nombre>
+                <Tipo>Normal</Tipo>
+                <Daño>65</Daño>
+            </Ataque>
+            <Ataque>
+                <Nombre>Puño Dinámico</Nombre>
+                <Tipo>Lucha</Tipo>
+                <Daño>60</Daño>
+            </Ataque>
+        </Ataques>
+    </Pokemon>
+
+    <Pokemon ID="31">
+        <Nombre>Nidoqueen</Nombre>
+        <Tipo>Veneno/Tierra</Tipo>
+        <Habilidad>Veneno Punto</Habilidad>
+        <Evoluciones/>
+        <HP>90</HP>
+        <Ataques>
+            <Ataque>
+                <Nombre>Terremoto</Nombre>
+                <Tipo>Terrestre</Tipo>
+                <Daño>100</Daño>
+            </Ataque>
+            <Ataque>
+                <Nombre>Colmillo Duro</Nombre>
+                <Tipo>Normal</Tipo>
+                <Daño>65</Daño>
+            </Ataque>
+        </Ataques>
+    </Pokemon>
+
+    <Pokemon ID="32">
+        <Nombre>Abra</Nombre>
+        <Tipo>Psíquico</Tipo>
+        <Habilidad>Sincronía</Habilidad>
+        <Evoluciones>
+            <Evolucion ID="63">Kadabra</Evolucion>
+        </Evoluciones>
+        <HP>25</HP>
+        <Ataques>
+            <Ataque>
+                <Nombre>Telequinesis</Nombre>
+                <Tipo>Psíquico</Tipo>
+                <Daño>0</Daño>
+            </Ataque>
+        </Ataques>
+    </Pokemon>
+
+    <Pokemon ID="63">
+        <Nombre>Kadabra</Nombre>
+        <Tipo>Psíquico</Tipo>
+        <Habilidad>Sincronía</Habilidad>
+        <Evoluciones>
+            <Evolucion ID="64">Alakazam</Evolucion>
+        </Evoluciones>
+        <HP>40</HP>
+        <Ataques>
+            <Ataque>
+                <Nombre>Psíquico</Nombre>
+                <Tipo>Psíquico</Tipo>
+                <Daño>90</Daño>
+            </Ataque>
+            <Ataque>
+                <Nombre>Puño Drenaje</Nombre>
+                <Tipo>Lucha</Tipo>
+                <Daño>50</Daño>
+            </Ataque>
+        </Ataques>
+    </Pokemon>
+
+    <Pokemon ID="64">
+        <Nombre>Alakazam</Nombre>
+        <Tipo>Psíquico</Tipo>
+        <Habilidad>Sincronía</Habilidad>
+        <Evoluciones/>
+        <HP>55</HP>
+        <Ataques>
+            <Ataque>
+                <Nombre>Psíquico</Nombre>
+                <Tipo>Psíquico</Tipo>
+                <Daño>90</Daño>
+            </Ataque>
+            <Ataque>
+                <Nombre>Puño Drenaje</Nombre>
+                <Tipo>Lucha</Tipo>
+                <Daño>50</Daño>
+            </Ataque>
+        </Ataques>
+    </Pokemon>
+
+    <Pokemon ID="54">
+        <Nombre>Psyduck</Nombre>
+        <Tipo>Agua</Tipo>
+        <Habilidad>Confusión</Habilidad>
+        <Evoluciones>
+            <Evolucion ID="55">Golduck</Evolucion>
+        </Evoluciones>
+        <HP>50</HP>
+        <Ataques>
+            <Ataque>
+                <Nombre>Confusión</Nombre>
+                <Tipo>Psíquico</Tipo>
+                <Daño>50</Daño>
+            </Ataque>
+            <Ataque>
+                <Nombre>Hidrochorro</Nombre>
+                <Tipo>Agua</Tipo>
+                <Daño>40</Daño>
+            </Ataque>
+        </Ataques>
+    </Pokemon>
+
+    <Pokemon ID="55">
+        <Nombre>Golduck</Nombre>
+        <Tipo>Agua</Tipo>
+        <Habilidad>Confusión</Habilidad>
+        <Evoluciones/>
+        <HP>80</HP>
+        <Ataques>
+            <Ataque>
+                <Nombre>Hydro Pump</Nombre>
+                <Tipo>Agua</Tipo>
+                <Daño>110</Daño>
+            </Ataque>
+            <Ataque>
+                <Nombre>Confusión</Nombre>
+                <Tipo>Psíquico</Tipo>
+                <Daño>50</Daño>
+            </Ataque>
+        </Ataques>
+    </Pokemon>
+
+
+    <Pokemon ID="133">
+        <Nombre>Eevee</Nombre>
+        <Tipo>Normal</Tipo>
+        <Habilidad>Fuga</Habilidad>
+        <HP>55</HP>
+        <Evoluciones>
+            <Evolucion ID="134">Vaporeon</Evolucion>
+            <Evolucion ID="135">Jolteon</Evolucion>
+            <Evolucion ID="136">Flareon</Evolucion>
+            <Evolucion ID="196">Espeon</Evolucion>
+            <Evolucion ID="197">Umbreon</Evolucion>
+            <Evolucion ID="470">Leafeon</Evolucion>
+            <Evolucion ID="471">Glaceon</Evolucion>
+            <Evolucion ID="700">Sylveon</Evolucion>
+        </Evoluciones>
+        <Ataques>
+            <Ataque>
+                <Nombre>Tackle</Nombre>
+                <Tipo>Normal</Tipo>
+                <Daño>40</Daño>
+            </Ataque>
+            <Ataque>
+                <Nombre>Mordisco</Nombre>
+                <Tipo>Siniestro</Tipo>
+                <Daño>60</Daño>
+            </Ataque>
+            <Ataque>
+                <Nombre>Gruñido</Nombre>
+                <Tipo>Normal</Tipo>
+                <Daño>0</Daño>
+            </Ataque>
+        </Ataques>
+    </Pokemon>
+
+    <Pokemon ID="134">
+        <Nombre>Vaporeon</Nombre>
+        <Tipo>Agua</Tipo>
+        <Habilidad>Absorber Agua</Habilidad>
+        <Evoluciones/>
+        <HP>130</HP>
+        <Ataques>
+            <Ataque>
+                <Nombre>Hydro Pump</Nombre>
+                <Tipo>Agua</Tipo>
+                <Daño>110</Daño>
+            </Ataque>
+            <Ataque>
+                <Nombre>Burbuja</Nombre>
+                <Tipo>Agua</Tipo>
+                <Daño>40</Daño>
+            </Ataque>
+        </Ataques>
+    </Pokemon>
+
+    <Pokemon ID="135">
+        <Nombre>Jolteon</Nombre>
+        <Tipo>Eléctrico</Tipo>
+        <Habilidad>Volt Absorb</Habilidad>
+        <Evoluciones/>
+        <HP>65</HP>
+        <Ataques>
+            <Ataque>
+                <Nombre>Thunderbolt</Nombre>
+                <Tipo>Eléctrico</Tipo>
+                <Daño>90</Daño>
+            </Ataque>
+            <Ataque>
+                <Nombre>Quick Attack</Nombre>
+                <Tipo>Normal</Tipo>
+                <Daño>40</Daño>
+            </Ataque>
+        </Ataques>
+    </Pokemon>
+
+    <Pokemon ID="136">
+        <Nombre>Flareon</Nombre>
+        <Tipo>Fuego</Tipo>
+        <Habilidad>Flash Fire</Habilidad>
+        <Evoluciones/>
+        <HP>65</HP>
+        <Ataques>
+            <Ataque>
+                <Nombre>Flamethrower</Nombre>
+                <Tipo>Fuego</Tipo>
+                <Daño>90</Daño>
+            </Ataque>
+            <Ataque>
+                <Nombre>Ember</Nombre>
+                <Tipo>Fuego</Tipo>
+                <Daño>40</Daño>
+            </Ataque>
+        </Ataques>
+    </Pokemon>
+
+    <Pokemon ID="196">
+        <Nombre>Espeon</Nombre>
+        <Tipo>Psíquico</Tipo>
+        <Habilidad>Sincronía</Habilidad>
+        <Evoluciones/>
+        <HP>65</HP>
+        <Ataques>
+            <Ataque>
+                <Nombre>Psychic</Nombre>
+                <Tipo>Psíquico</Tipo>
+                <Daño>90</Daño>
+            </Ataque>
+            <Ataque>
+                <Nombre>Confusion</Nombre>
+                <Tipo>Psíquico</Tipo>
+                <Daño>50</Daño>
+            </Ataque>
+        </Ataques>
+    </Pokemon>
+
+    <Pokemon ID="197">
+        <Nombre>Umbreon</Nombre>
+        <Tipo>Siniestro</Tipo>
+        <Habilidad>Sincronía</Habilidad>
+        <Evoluciones/>
+        <HP>95</HP>
+        <Ataques>
+            <Ataque>
+                <Nombre>Foul Play</Nombre>
+                <Tipo>Siniestro</Tipo>
+                <Daño>95</Daño>
+            </Ataque>
+            <Ataque>
+                <Nombre>Quick Attack</Nombre>
+                <Tipo>Normal</Tipo>
+                <Daño>40</Daño>
+            </Ataque>
+        </Ataques>
+    </Pokemon>
+
+    <Pokemon ID="470">
+        <Nombre>Leafeon</Nombre>
+        <Tipo>Planta</Tipo>
+        <Habilidad>Leaf Guard</Habilidad>
+        <Evoluciones/>
+        <HP>65</HP>
+        <Ataques>
+            <Ataque>
+                <Nombre>Leaf Blade</Nombre>
+                <Tipo>Planta</Tipo>
+                <Daño>90</Daño>
+            </Ataque>
+            <Ataque>
+                <Nombre>Razor Leaf</Nombre>
+                <Tipo>Planta</Tipo>
+                <Daño>55</Daño>
+            </Ataque>
+        </Ataques>
+    </Pokemon>
+
+    <Pokemon ID="471">
+        <Nombre>Glaceon</Nombre>
+        <Tipo>Hielo</Tipo>
+        <Habilidad>Ice Body</Habilidad>
+        <Evoluciones/>
+        <HP>65</HP>
+        <Ataques>
+            <Ataque>
+                <Nombre>Icy Wind</Nombre>
+                <Tipo>Hielo</Tipo>
+                <Daño>55</Daño>
+            </Ataque>
+            <Ataque>
+                <Nombre>Ice Beam</Nombre>
+                <Tipo>Hielo</Tipo>
+                <Daño>90</Daño>
+            </Ataque>
+        </Ataques>
+    </Pokemon>
+
+    <Pokemon ID="700">
+        <Nombre>Sylveon</Nombre>
+        <Tipo<Hada</Tipo>
+        <Habilidad>Pixilate</Habilidad>
+        <Evoluciones/>
+        <HP>95</HP>
+        <Ataques>
+            <Ataque>
+                <Nombre>Moonblast</Nombre>
+                <Tipo>Hada</Tipo>
+                <Daño>95</Daño>
+            </Ataque>
+            <Ataque>
+                <Nombre>Hyper Voice</Nombre>
+                <Tipo>Normal</Tipo>
+                <Daño>90</Daño>
+            </Ataque>
+        </Ataques>
+    </Pokemon>
+</PokemonData>
