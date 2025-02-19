@@ -781,7 +781,6 @@
         <Nombre>Eevee</Nombre>
         <Tipo>Normal</Tipo>
         <Habilidad>Fuga</Habilidad>
-        <HP>55</HP>
         <Evoluciones>
             <Evolucion ID="134">Vaporeon</Evolucion>
             <Evolucion ID="135">Jolteon</Evolucion>
@@ -792,6 +791,7 @@
             <Evolucion ID="471">Glaceon</Evolucion>
             <Evolucion ID="700">Sylveon</Evolucion>
         </Evoluciones>
+        <HP>55</HP>
         <Ataques>
             <Ataque>
                 <Nombre>Tackle</Nombre>
